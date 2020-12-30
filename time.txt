@@ -3,6 +3,14 @@
 start - 22:40
 stop 0:10
 
-total - 1:30
+
+День 2
+
+start - 21:30
+stop 0:10
+
+
+
+total - 4:10
 
 
